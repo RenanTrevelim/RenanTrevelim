@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou o Renan Assis Trevelim  
-### Data Scientist em formação
+### Data Scientist | Machine Learning & Deep Learning
 
-🚀 Bem-vindo ao meu perfil!
+🚀 Engenheiro da Computação com foco em Ciência de Dados e Inteligência Artificial.  
+🎓 Iniciando pós-graduação em Ciência de Dados pela FIAP.
 
-Sou formado em Engenharia da Computação, começando pós-graduação em Ciência de Dados pela FIAP.
+Sou movido por resolver problemas reais usando dados. Tenho especial interesse em Machine Learning, Deep Learning e aplicações de IA voltadas para impacto social e tomada de decisão orientada por dados.
 
 ---
 
