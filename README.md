@@ -2,7 +2,7 @@
 ### Data Scientist | Machine Learning & Deep Learning
 
 🚀 Engenheiro da Computação com foco em Ciência de Dados e Inteligência Artificial.  
-🎓 Iniciando pós-graduação em Ciência de Dados pela FIAP.
+🎓 Fazendo pós-graduação em Ciência de Dados pela FIAP.
 
 Sou movido por resolver problemas reais usando dados. Tenho especial interesse em Machine Learning, Deep Learning e aplicações de IA voltadas para impacto social e tomada de decisão orientada por dados.
 
@@ -26,12 +26,12 @@ Sou movido por resolver problemas reais usando dados. Tenho especial interesse e
 
 ## 💼 Projetos em Destaque
 
-### 🔹 Previsão de Consumo de Energia Elétrica
-🔗 `Machine Learning + Spark + Deploy Streamlit`  
-📌 Repositório: [consumo-energia](https://github.com/RenanTrevelim/Projeto_Previsao_Consumo_de_Energia)
+### 🔹 Previsão de Preços de Casas na Califórnia
+🔗 `Machine Learning(XGBoost) + EDA + Spark + Deploy Streamlit + Docker`  
+📌 Repositório: [precos-casas-california](https://github.com/RenanTrevelim/precos-casas-california)
 
 ### 🔹 Previsão de Valor de Seguro de Saúde
-🔗 `Regressão com Scikit-Learn + Spark + Deploy Streamlit`  
+🔗 `Machine Learning(XGBoost) + EDA + Spark + Deploy Streamlit + Docker`  
 📌 Repositório: [seguro-saude-predicao](https://github.com/RenanTrevelim/prevendo_seguro_saude)
 
 ---
