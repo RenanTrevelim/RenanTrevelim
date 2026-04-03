@@ -26,12 +26,19 @@ Sou movido por resolver problemas reais usando dados. Tenho especial interesse e
 
 ## 💼 Projetos em Destaque
 
+### 🔹 Agente Farmacêutico com IA (RAG)
+Sistema baseado em IA Generativa para consulta inteligente de informações farmacêuticas, utilizando arquitetura RAG para respostas contextualizadas.
+🔗 `Tecnologias: LLMs • Embeddings • Banco Vetorial • LangChain • RAG`  
+📌 Repositório: [agente-farmaceutico-rag](https://github.com/RenanTrevelim/agente-farmaceutico-rag)
+
 ### 🔹 Previsão de Preços de Casas na Califórnia
-🔗 `Machine Learning(XGBoost) + EDA + Spark + Deploy Streamlit + Docker`  
+Modelo preditivo para estimar preços de imóveis com base em dados socioeconômicos, incluindo pipeline completo de dados e deploy da aplicação.
+🔗 `Tecnologias: XGBoost • EDA • Apache Spark • Streamlit • Docker`  
 📌 Repositório: [precos-casas-california](https://github.com/RenanTrevelim/precos-casas-california)
 
 ### 🔹 Previsão de Valor de Seguro de Saúde
-🔗 `Machine Learning(XGBoost) + EDA + Spark + Deploy Streamlit + Docker`  
+Solução de Machine Learning para previsão de custos de seguros, com foco em análise exploratória e construção de modelos robustos.
+🔗 `Tecnologias: XGBoost • EDA • Apache Spark • Streamlit • Docker`  
 📌 Repositório: [seguro-saude-predicao](https://github.com/RenanTrevelim/prevendo_seguro_saude)
 
 ---
