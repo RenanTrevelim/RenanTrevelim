@@ -1,14 +1,19 @@
 # 👋 Olá, eu sou o Renan Assis Trevelim  
-### Data Scientist | Machine Learning & Deep Learning
+### 🚀 Data Scientist | Machine Learning & AI
 
-🚀 Engenheiro da Computação com foco em Ciência de Dados e Inteligência Artificial.  
-🎓 Fazendo pós-graduação em Ciência de Dados pela FIAP.
+Sou Engenheiro da Computação com foco em Ciência de Dados e Inteligência Artificial, especializado no desenvolvimento de soluções de Machine Learning ponta a ponta — desde a análise exploratória até o deploy de modelos em produção.
 
-Sou movido por resolver problemas reais usando dados. Tenho especial interesse em Machine Learning, Deep Learning e aplicações de IA voltadas para impacto social e tomada de decisão orientada por dados.
+🎓 Pós-graduação em Ciência de Dados pela FIAP  
+
+💡 Foco em:
+- Modelos preditivos e classificação
+- IA aplicada a problemas reais
+- Deploy de soluções com impacto prático
 
 ---
 
-## 🛠️ Skills e Tecnologias
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,20 +31,41 @@ Sou movido por resolver problemas reais usando dados. Tenho especial interesse e
 
 ## 💼 Projetos em Destaque
 
-### 🔹 Agente Farmacêutico com IA (RAG)
+### 🧠 Agente Farmacêutico com IA (RAG)
 Sistema baseado em IA Generativa para consulta inteligente de informações farmacêuticas, utilizando arquitetura RAG para respostas contextualizadas.
-🔗 `Tecnologias: LLMs • Embeddings • Banco Vetorial • LangChain • RAG`  
-📌 Repositório: [agente-farmaceutico-rag](https://github.com/RenanTrevelim/agente-farmaceutico-rag)
 
-### 🔹 Previsão de Preços de Casas na Califórnia
-Modelo preditivo para estimar preços de imóveis com base em dados socioeconômicos, incluindo pipeline completo de dados e deploy da aplicação.
-🔗 `Tecnologias: XGBoost • EDA • Apache Spark • Streamlit • Docker`  
-📌 Repositório: [precos-casas-california](https://github.com/RenanTrevelim/precos-casas-california)
+🔎 **Diferencial:** Aplicação prática de LLMs para acesso inteligente a conhecimento técnico  
+🔗 Tecnologias: LLMs • Embeddings • Banco Vetorial • LangChain  
+📌 Repositório: https://github.com/RenanTrevelim/agente-farmaceutico-rag
 
-### 🔹 Previsão de Valor de Seguro de Saúde
-Solução de Machine Learning para previsão de custos de seguros, com foco em análise exploratória e construção de modelos robustos.
-🔗 `Tecnologias: XGBoost • EDA • Apache Spark • Streamlit • Docker`  
-📌 Repositório: [seguro-saude-predicao](https://github.com/RenanTrevelim/prevendo_seguro_saude)
+---
+
+### 🏠 Previsão de Preços de Casas (End-to-End)
+Modelo preditivo para estimar preços de imóveis com pipeline completo de dados e aplicação interativa.
+
+📈 **Diferencial:** Projeto completo com EDA, modelagem, otimização e deploy  
+🔗 Tecnologias: XGBoost • Spark • Streamlit • Docker  
+📌 Repositório: https://github.com/RenanTrevelim/precos-casas-california
+
+---
+
+### ❤️ Classificação de Doença Cardíaca
+Modelo de Machine Learning para detecção de doença cardíaca com foco em recall e ajuste de threshold.
+
+📊 **Resultados:**  
+- AUC ~0.83  
+- F1-score ~0.82  
+
+💡 **Diferencial:** Otimização voltada para detecção de casos críticos  
+📌 Repositório: https://github.com/RenanTrevelim/projeto-doenca-cardiaca
+
+---
+
+### 💰 Previsão de Custos de Seguro de Saúde
+Modelo preditivo para estimativa de custos médicos com análise de variáveis clínicas e demográficas.
+
+📈 **Diferencial:** Uso de técnicas robustas de regressão e análise exploratória  
+📌 Repositório: https://github.com/RenanTrevelim/prevendo_seguro_saude
 
 ---
 
@@ -53,4 +79,3 @@ Solução de Machine Learning para previsão de custos de seguros, com foco em a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
