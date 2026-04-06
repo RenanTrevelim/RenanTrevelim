@@ -13,22 +13,6 @@ Sou Engenheiro da Computação com foco em Ciência de Dados e Inteligência Art
 ---
 
 
-## 🛠️ Tecnologias e Ferramentas
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data_Science-009688?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-005C8F?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
-
----
-
 ## 💼 Projetos em Destaque
 
 ### 🧠 Agente Farmacêutico com IA (RAG)
