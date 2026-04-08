@@ -24,6 +24,7 @@ Sistema de IA generativa desenvolvido para responder perguntas sobre medicamento
 💡 **Solução:** Integração de LLMs com base de conhecimento vetorial para respostas mais precisas e fundamentadas  
 🚀 **Impacto:** Melhora na eficiência da consulta e redução da dependência de busca manual em documentos técnicos  
 🔗 Tecnologias: LLMs • Embeddings • Banco Vetorial • LangChain • Streamlit • Docker
+
 📌 Repositório: https://github.com/RenanTrevelim/agente-farmaceutico-rag
 
 ---
@@ -35,7 +36,8 @@ Projeto completo de Machine Learning para previsão de preços de imóveis, desd
 💡 **Solução:** Pipeline com EDA, engenharia de atributos e modelo XGBoost otimizado  
 📈 **Resultado:** Modelo com boa capacidade preditiva e aplicação acessível via interface interativa  
 🚀 **Impacto:** Apoio à tomada de decisão em precificação e análise de mercado imobiliário  
-🔗 Tecnologias: XGBoost • Spark • Streamlit • Docker  
+🔗 Tecnologias: XGBoost • Spark • Streamlit • Docker 
+
 📌 Repositório: https://github.com/RenanTrevelim/precos-casas-california
 
 ---
@@ -47,6 +49,7 @@ Modelo de classificação para detecção de risco de doença cardíaca, com foc
 💡 **Solução:** Modelo de Machine Learning com ajuste de threshold priorizando recall  
 🚀 **Impacto:** Redução do risco de falsos negativos, aumentando a detecção de pacientes em risco  
 🔗 Tecnologias: Scikit-learn • Pandas • NumPy • Streamlit • Docker
+
 📌 Repositório: https://github.com/RenanTrevelim/projeto-doenca-cardiaca
 
 ---
@@ -59,6 +62,7 @@ Modelo preditivo para estimar custos médicos com base em características demog
 📈 **Resultado:** Identificação dos principais fatores que impactam os custos (ex: idade, IMC, hábitos)  
 🚀 **Impacto:** Apoio à precificação de planos e análise de risco em saúde  
 🔗 Tecnologias: Python • Pandas • Scikit-learn • Streamlit • Docker 
+
 📌 Repositório: https://github.com/RenanTrevelim/prevendo_seguro_saude
 
 ---
