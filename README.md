@@ -43,7 +43,7 @@ Modelo de Machine Learning para previsão de inadimplência com aplicação prá
 💰 **Impacto:** ~R$ 951 mil em perdas evitadas e ~R$ 350 mil de ganho líquido  
 
 🔗 **Tecnologias:** Scikit-learn • Pandas • Docker • Joblib  
-📌 **Repositório:** github.com/RenanTrevelim/payflow-inadimplencia  
+📌 **Repositório:** https://github.com/RenanTrevelim/payflow-inadimplencia  
 
 ---
 
@@ -57,7 +57,7 @@ Modelo preditivo para identificação de clientes com risco de se tornarem detra
 💰 **Impacto:** Melhor alocação de incentivos e maior eficiência na retenção  
 
 🔗 **Tecnologias:** Scikit-learn • Pandas • Streamlit • Docker  
-📌 **Repositório:** github.com/RenanTrevelim/fase1-tech-challenge
+📌 **Repositório:** https://github.com/RenanTrevelim/fase1-tech-challenge
 
 ---
 
@@ -71,7 +71,7 @@ Sistema de IA generativa para consulta de informações farmacêuticas com base 
 🚀 **Impacto:** Redução da dependência de busca manual  
 
 🔗 **Tecnologias:** LLMs • Embeddings • Banco Vetorial • LangChain • Streamlit • Docker  
-📌 **Repositório:** github.com/RenanTrevelim/agente-farmaceutico-rag  
+📌 **Repositório:** https://github.com/RenanTrevelim/agente-farmaceutico-rag 
 
 
 ---
