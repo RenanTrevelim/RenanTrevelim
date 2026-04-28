@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Renan Assis Trevelim  
 ### 🚀 Data Scientist | Machine Learning & AI
 
-Atuo no desenvolvimento de modelos de Machine Learning aplicados a problemas reais de negócio, com foco em **risco de crédito, retenção de clientes e tomada de decisão orientada a dados**.
+Atuo no desenvolvimento de modelos de Machine Learning aplicados a problemas reais de negócio, com foco em **risco de crédito, retenção de clientes e previsão de demanda**.
 
 Tenho experiência prática em projetos end-to-end, conectando dados, modelagem e operação com o objetivo de **gerar impacto financeiro direto e aumentar a eficiência das decisões**.
 
@@ -39,8 +39,8 @@ Modelo de Machine Learning para previsão de inadimplência com aplicação prá
 
 🔎 **Problema:** Equilibrar aprovação de crédito e redução de inadimplência  
 💡 **Solução:** Modelo preditivo com engenharia de atributos financeiros + definição de thresholds operacionais  
-📈 **Resultado:** Alto recall na identificação de inadimplentes  
-💰 **Impacto:** ~R$ 951 mil em perdas evitadas e ~R$ 350 mil de ganho líquido  
+📈 **Resultado:** Alta capacidade de identificação de clientes inadimplentes  
+💰 **Impacto:** ~R$ 1 milhão em perdas evitadas e ~R$ 360 mil de ganho líquido  
 
 🔗 **Tecnologias:** Scikit-learn • Pandas • Docker • Joblib  
 📌 **Repositório:** https://github.com/RenanTrevelim/payflow-inadimplencia  
@@ -57,22 +57,20 @@ Modelo preditivo para identificação de clientes com risco de se tornarem detra
 💰 **Impacto:** Melhor alocação de incentivos e maior eficiência na retenção  
 
 🔗 **Tecnologias:** Scikit-learn • Pandas • Streamlit • Docker  
-📌 **Repositório:** https://github.com/RenanTrevelim/fase1-tech-challenge
+📌 **Repositório:** https://github.com/RenanTrevelim/fase1-tech-challenge  
 
 ---
 
-### 🧠 Agente Farmacêutico com IA (RAG)
+### 📈 Previsão de Vendas com Séries Temporais
 
-Sistema de IA generativa para consulta de informações farmacêuticas com base em arquitetura RAG (Retrieval-Augmented Generation).
+Modelo de previsão de demanda utilizando técnicas estatísticas e Machine Learning para identificar padrões e projetar vendas futuras.
 
-🔎 **Problema:** Acesso lento e pouco eficiente a informações técnicas  
-💡 **Solução:** Integração de LLMs com base vetorial e busca semântica  
-📈 **Resultado:** Respostas mais confiáveis e contextualizadas  
-🚀 **Impacto:** Redução da dependência de busca manual  
+🔎 **Problema:** Dificuldade em prever demanda futura e planejar operações  
+💡 **Solução:** Análise de séries temporais + decomposição + comparação de modelos (ARIMA, SARIMA e ML)  
+📈 **Resultado:** Modelo SARIMA com melhor desempenho na captura de sazonalidade  
+💰 **Impacto:** Melhor planejamento de estoque, previsão de receita e redução de incerteza operacional  
 
-🔗 **Tecnologias:** LLMs • Embeddings • Banco Vetorial • LangChain • Streamlit • Docker  
-📌 **Repositório:** https://github.com/RenanTrevelim/agente-farmaceutico-rag 
-
+🔗 **Tecnologias:** Pandas • Statsmodels • Scikit-learn • Streamlit  
+📌 **Repositório:** https://github.com/RenanTrevelim/vendas-series-temporais 
 
 ---
-
