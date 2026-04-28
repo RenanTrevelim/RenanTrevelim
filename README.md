@@ -18,19 +18,6 @@ Tenho experiência prática em projetos end-to-end, conectando dados, modelagem 
 
 ---
 
-## 🧠 Como eu atuo
-
-Minha abordagem é orientada a resultado:
-
-**Diagnóstico → Modelagem → Decisão → Impacto**
-
-- 📊 Análise de dados com foco em geração de valor  
-- 🤖 Modelagem preditiva aplicada a risco e retenção  
-- ⚙️ Construção de soluções orientadas à decisão  
-- 📈 Conexão entre Machine Learning e impacto financeiro  
-
----
-
 ## 💼 Projetos em Destaque
 
 ### 💰 Motor de Decisão de Crédito (Inadimplência)
