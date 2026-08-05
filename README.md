@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Desenvolvo modelos preditivos, pipelines de dados e aplicações analíticas para transformar dados em decisões de negócio.
+  Desenvolvo modelos preditivos, pipelines de dados e aplicações analíticas para apoiar decisões de negócio.
 </p>
 
 <p align="center">
@@ -16,50 +16,28 @@
 
 ---
 
-
 ## 👨‍💻 Sobre mim
 
-Sou profissional de dados com foco no desenvolvimento de soluções end-to-end, conectando **análise, Machine Learning, Engenharia de Dados, Cloud e aplicações interativas**.
+Profissional de dados com experiência prática em projetos end-to-end, conectando **análise, Machine Learning, Engenharia de Dados, Cloud e desenvolvimento de aplicações**.
 
-Tenho experiência prática em projetos voltados à integração de dados públicos, inteligência de clientes, modelagem preditiva e transformação de resultados analíticos em informações úteis para tomada de decisão.
+Atuo na construção de soluções voltadas à integração de dados, modelagem preditiva, inteligência de clientes e apoio à tomada de decisão.
 
 🎓 Pós-graduação em Ciência de Dados pela FIAP.
 
 ---
 
-
 ## 💼 Projetos em Destaque
 
 ### ☁️ Cloud Data Pipeline na GCP
 
-> Plataforma de Engenharia de Dados em Cloud criada para integrar informações educacionais, territoriais e financeiras sobre alfabetização infantil no Brasil.
+Plataforma de Engenharia de Dados para integrar informações educacionais, territoriais e financeiras sobre alfabetização infantil no Brasil.
 
-#### 🎯 Desafio
+- **Arquitetura:** Medalhão, com camadas Bronze, Silver e Gold na Google Cloud Platform.
+- **Processamento:** pipelines Batch e Streaming com PySpark e Dataproc.
+- **Entregas:** 15 marts no BigQuery, infraestrutura com Terraform, validações de qualidade, Machine Learning e práticas de FinOps.
+- **Aplicação:** análise de desigualdades educacionais e apoio à priorização de investimentos públicos.
 
-Unificar dados do INEP, IBGE, SICONFI e SAEB, provenientes de fontes com diferentes formatos, níveis de granularidade e regras de qualidade, preservando consistência, rastreabilidade e confiabilidade ao longo do pipeline.
-
-#### 🏗️ Solução
-
-Desenvolvimento de uma arquitetura Medalhão na Google Cloud Platform, com processamento Batch e simulação de Streaming, transformações distribuídas em PySpark, armazenamento no Google Cloud Storage e disponibilização da camada analítica no BigQuery.
-
-#### ⚙️ Principais entregas
-
-- 15 marts analíticos disponibilizados no BigQuery;
-- infraestrutura provisionada com Terraform;
-- pipelines organizados nas camadas Bronze, Silver e Gold;
-- validações de qualidade e rastreabilidade dos dados;
-- modelos de Machine Learning aplicados à análise educacional;
-- otimização de cenários de investimento público;
-- práticas de FinOps com cluster Dataproc efêmero;
-- 114 testes automatizados cobrindo diferentes etapas da solução.
-
-#### 📊 Valor da solução
-
-A plataforma transforma dados públicos fragmentados em uma base analítica confiável e escalável, apoiando análises de desigualdade educacional, identificação de municípios prioritários e simulação de cenários de investimento em alfabetização infantil.
-
-#### 🛠️ Tecnologias
-
-`PySpark` `Google Cloud Platform` `Dataproc` `BigQuery` `GCS` `Terraform` `Spark MLlib` `Scikit-learn`
+`PySpark` `GCP` `Dataproc` `BigQuery` `GCS` `Terraform` `Spark MLlib`
 
 <p>
   <a href="https://github.com/RenanTrevelim/gcp-literacy-data-pipeline">
@@ -71,46 +49,17 @@ A plataforma transforma dados públicos fragmentados em uma base analítica conf
 
 ### 📊 Customer Intelligence com Machine Learning
 
-> Solução end-to-end de Ciência de Dados para identificar clientes com maior risco de insatisfação, compreender padrões de comportamento e apoiar estratégias de atendimento e retenção.
+Solução de Ciência de Dados para identificar clientes com maior risco de insatisfação e apoiar estratégias de atendimento e retenção.
 
-#### 🎯 Desafio
+- **Modelagem:** Gradient Boosting para estimar a probabilidade de um cliente se tornar detrator.
+- **Segmentação:** Kernel PCA e método Ward para identificar perfis de criticidade operacional.
+- **Entregas:** níveis de risco, valor potencial em risco, fila de priorização e recomendações de retenção.
+- **Aplicação:** interface em Streamlit para previsões, análise de segmentos e exportação dos resultados.
 
-Antecipar clientes com maior probabilidade de se tornarem detratores e compreender como atrasos, reclamações, contatos com atendimento e tempo de resolução influenciam a experiência do consumidor.
-
-#### 🤖 Solução
-
-Construção de duas abordagens complementares de Machine Learning:
-
-- modelo supervisionado com Gradient Boosting para estimar o risco individual de insatisfação;
-- segmentação com Kernel PCA e Clusterização Hierárquica pelo método Ward para identificar perfis de criticidade operacional.
-
-#### ⚙️ Principais entregas
-
-- probabilidade estimada de o cliente se tornar detrator;
-- classificação por nível de risco;
-- identificação de problemas operacionais recorrentes;
-- estimativa de valor potencial em risco;
-- segmentação de clientes por criticidade;
-- fila de priorização para atendimento;
-- recomendações de ações de retenção;
-- exportação dos resultados processados.
-
-#### 🖥️ Aplicação
-
-Desenvolvimento de uma interface interativa em Streamlit para carregar arquivos CSV, gerar previsões, explorar segmentos, visualizar indicadores e exportar os resultados para uso operacional.
-
-#### 📈 Valor da solução
-
-O projeto transforma resultados de Machine Learning em informações acionáveis, permitindo direcionar melhor os esforços de atendimento, priorizar clientes críticos e apoiar decisões relacionadas à experiência e retenção.
-
-#### 🛠️ Tecnologias
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Joblib` `SciPy`
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib` `SciPy`
 
 <p>
   <a href="https://github.com/RenanTrevelim/customer-churn-prediction">
     <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
