@@ -1,17 +1,14 @@
 <h1 align="center">Renan Assis Trevelim</h1>
 
 <h3 align="center">
-  Data Scientist | Machine Learning | Data Engineering & Cloud
+  Data Scientist • Machine Learning • Data Engineering • Cloud
 </h3>
 
 <p align="center">
-  Transformo dados em modelos preditivos, pipelines e aplicações capazes de apoiar decisões de negócio.
+  Desenvolvo modelos preditivos, pipelines de dados e aplicações analíticas para transformar dados em decisões de negócio.
 </p>
 
 <p align="center">
-  <a href="mailto:trevelimrenan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/renan-trevelim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -19,46 +16,46 @@
 
 ---
 
+
+## 👨‍💻 Sobre mim
+
+Sou profissional de dados com foco no desenvolvimento de soluções end-to-end, conectando **análise, Machine Learning, Engenharia de Dados, Cloud e aplicações interativas**.
+
+Tenho experiência prática em projetos voltados à integração de dados públicos, inteligência de clientes, modelagem preditiva e transformação de resultados analíticos em informações úteis para tomada de decisão.
+
+🎓 Pós-graduação em Ciência de Dados pela FIAP.
+
+---
+
+
 ## 💼 Projetos em Destaque
 
-### 💰 Motor de Decisão de Crédito (Inadimplência)
+### ☁️ Cloud Data Pipeline na GCP
 
-Modelo de Machine Learning para previsão de inadimplência com aplicação prática em concessão de crédito, incluindo regras de decisão e simulação financeira.
+Plataforma de Engenharia de Dados para integrar informações educacionais, territoriais e financeiras sobre alfabetização infantil no Brasil.
 
-🔎 **Problema:** Equilibrar aprovação de crédito e redução de inadimplência  
-💡 **Solução:** Modelo preditivo com engenharia de atributos financeiros + definição de thresholds operacionais  
-📈 **Resultado:** Alta capacidade de identificação de clientes inadimplentes  
-💰 **Impacto:** ~R$ 1 milhão em perdas evitadas e ~R$ 360 mil de ganho líquido  
+**Desafio:** consolidar dados do INEP, IBGE, SICONFI e SAEB, provenientes de fontes e formatos diferentes.  
+**Solução:** arquitetura Medalhão na GCP, com processamento em PySpark, Data Lake no GCS e camada analítica no BigQuery.  
+**Entrega:** 15 marts analíticos, infraestrutura com Terraform, validações de qualidade, aplicações de Machine Learning e práticas de FinOps.  
+**Aplicação:** apoio à análise de desigualdades educacionais e à priorização de investimentos públicos.
 
-🔗 **Tecnologias:** Scikit-learn • Pandas • Docker • Joblib  
-📌 **Repositório:** https://github.com/RenanTrevelim/payflow-inadimplencia  
+**Tecnologias:** PySpark • GCP • Dataproc • BigQuery • GCS • Terraform • Scikit-learn
 
----
-
-### 📊 Retenção de Clientes (NPS)
-
-Modelo preditivo para identificação de clientes com risco de se tornarem detratores, com segmentação por risco e priorização por impacto financeiro.
-
-🔎 **Problema:** Dificuldade de antecipar insatisfação antes da coleta do NPS  
-💡 **Solução:** Modelo de classificação + feature engineering + cálculo de risco financeiro e ROI  
-📈 **Resultado:** Alta capacidade de identificação de clientes em risco  
-💰 **Impacto:** Melhor alocação de incentivos e maior eficiência na retenção  
-
-🔗 **Tecnologias:** Scikit-learn • Pandas • Streamlit • Docker  
-📌 **Repositório:** https://github.com/RenanTrevelim/fase1-tech-challenge  
+📌 [Acessar repositório](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
 
 ---
 
-### 📈 Previsão de Vendas com Séries Temporais
+### 📊 Customer Intelligence com Machine Learning
 
-Modelo de previsão de demanda utilizando técnicas estatísticas e Machine Learning para identificar padrões e projetar vendas futuras.
+Solução de Ciência de Dados para identificar clientes com maior risco de insatisfação e apoiar estratégias de atendimento e retenção.
 
-🔎 **Problema:** Dificuldade em prever demanda futura e planejar operações  
-💡 **Solução:** Análise de séries temporais + decomposição + comparação de modelos (ARIMA, SARIMA e ML)  
-📈 **Resultado:** Modelo SARIMA com melhor desempenho na captura de sazonalidade  
-💰 **Impacto:** Melhor planejamento de estoque, previsão de receita e redução de incerteza operacional  
+**Desafio:** antecipar clientes detratores e compreender os fatores operacionais relacionados à insatisfação.  
+**Solução:** modelo preditivo com Gradient Boosting e segmentação de perfis com Kernel PCA e método Ward.  
+**Entrega:** probabilidade de detrator, níveis de risco, segmentos de criticidade, fila de priorização e recomendações de retenção.  
+**Aplicação:** interface em Streamlit para gerar previsões, explorar resultados e exportar análises.
 
-🔗 **Tecnologias:** Pandas • Statsmodels • Scikit-learn • Streamlit  
-📌 **Repositório:** https://github.com/RenanTrevelim/vendas-series-temporais 
+**Tecnologias:** Python • Pandas • Scikit-learn • Streamlit • Joblib • SciPy
+
+📌 [Acessar repositório](https://github.com/RenanTrevelim/customer-churn-prediction)
 
 ---
