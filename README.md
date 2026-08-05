@@ -1,20 +1,21 @@
-# 👋 Olá, eu sou o Renan Assis Trevelim  
-### 🚀 Data Scientist | Machine Learning & AI
+<h1 align="center">Renan Assis Trevelim</h1>
 
-Atuo no desenvolvimento de modelos de Machine Learning aplicados a problemas reais de negócio, com foco em **risco de crédito, retenção de clientes e previsão de demanda**.
+<h3 align="center">
+  Data Scientist | Machine Learning | Data Engineering & Cloud
+</h3>
 
-Tenho experiência prática em projetos end-to-end, conectando dados, modelagem e operação com o objetivo de **gerar impacto financeiro direto e aumentar a eficiência das decisões**.
+<p align="center">
+  Transformo dados em modelos preditivos, pipelines e aplicações capazes de apoiar decisões de negócio.
+</p>
 
-🎓 Pós-graduação em Ciência de Dados pela FIAP  
-
-<div>
+<p align="center">
   <a href="mailto:trevelimrenan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/renan-trevelim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
