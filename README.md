@@ -63,3 +63,24 @@ Solução de Ciência de Dados para identificar clientes com maior risco de insa
     <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
+
+---
+
+### 🌍 CO₂ Forecasting — Séries Temporais
+
+Projeto de forecasting para analisar e prever a **concentração atmosférica de CO₂**, comparando modelos estatísticos e abordagens de Machine Learning.
+
+* **Análise temporal:** exploração de tendência, sazonalidade, decomposição da série e autocorrelação.
+* **Modelagem:** comparação entre diferentes abordagens de forecasting e seleção do SARIMAX como modelo final.
+* **Previsão:** forecast semanal com horizonte de 52 semanas e intervalo de confiança.
+* **Aplicação:** dashboard interativo para visualizar histórico, previsões e comportamento esperado da concentração de CO₂.
+
+`Python` `Pandas` `Statsmodels` `SARIMAX` `Scikit-learn` `Streamlit` `Time Series`
+
+<p>
+  <a href="https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml">
+    <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
