@@ -2,17 +2,17 @@
 
 ### Data Scientist | Machine Learning & Deep Learning
 
-Construo soluções de Ciência de Dados que transformam dados em **previsões, inteligência e apoio à tomada de decisão**, com foco em Machine Learning, Deep Learning e modelagem preditiva.
+Transformo dados em **modelos, previsões e inteligência capaz de orientar decisões**, conectando Ciência de Dados, Machine Learning e Deep Learning a problemas reais.
 
-Também utilizo Engenharia de Dados, MLOps e Cloud Computing para levar modelos além do experimento e construir soluções end-to-end.
+Meu foco é construir soluções que vão além da análise: da exploração dos dados à modelagem e entrega, utilizando Engenharia de Dados, MLOps e Cloud Computing para tornar projetos mais robustos, escaláveis e próximos de ambientes reais de produção.
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 💼 **Atuação Atual:** Suporte Técnico em TI
-- 🎓 **Graduação:** Engenharia da Computação
-- 📚 **Pós-graduação:** Ciência de Dados — FIAP
+- 💼 **Atuação Profissional:** Suporte Técnico em TI
+- 🎓 **Formação:** Engenharia da Computação
+- 📚 **Especialização:** Ciência de Dados — FIAP
 - 🔗 **LinkedIn:** [Renan Assis Trevelim](https://www.linkedin.com/in/renan-trevelim)
 - 💻 **GitHub:** [RenanTrevelim](https://github.com/RenanTrevelim)
 
@@ -20,22 +20,22 @@ Também utilizo Engenharia de Dados, MLOps e Cloud Computing para levar modelos 
 
 ## 🚀 Projetos de Destaque no Portfólio
 
-### 🎯 [NPS Intelligence — Antecipação de Detratores e Priorização de Clientes](https://github.com/RenanTrevelim/customer-churn-prediction)
+### 🎯 [NPS Intelligence — Antecipação de Detratores e Priorização Inteligente de Clientes](https://github.com/RenanTrevelim/customer-churn-prediction)
 
-- **O Problema:** Identificar antecipadamente clientes com maior risco de insatisfação e determinar quais deveriam receber atenção prioritária.
-- **Tech:** Python • Scikit-learn • Gradient Boosting • Kernel PCA • Ward Hierarchical Clustering • Pandas • SciPy • Streamlit
-- **O Valor:** Transforma previsões em decisões de negócio ao combinar risco de detrator, perfil do cliente e valor potencial em risco para gerar uma fila inteligente de priorização e apoiar estratégias de retenção.
+- **Contexto:** Em operações orientadas à experiência do cliente, identificar insatisfação apenas depois que ela acontece significa agir tarde demais.
+- **Solução:** Desenvolvi uma abordagem de Customer Intelligence que antecipa o risco de detratores e combina probabilidade, perfil e valor potencial em risco para transformar previsões em uma fila estratégica de priorização para retenção.
+- **Stack:** Python • Scikit-learn • Gradient Boosting • Kernel PCA • Clustering • Streamlit
 
 
 ### 🌍 [CO₂ Forecasting — Previsão e Análise de Séries Temporais](https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml)
 
-- **O Problema:** Compreender o comportamento histórico da concentração atmosférica de CO₂ e projetar sua evolução futura considerando tendência, sazonalidade e dependência temporal.
-- **Tech:** Python • Pandas • Statsmodels • Time Series Analysis • SARIMAX • Forecasting • Scikit-learn • Streamlit
-- **O Valor:** Compara diferentes abordagens de previsão, seleciona o modelo mais adequado e gera projeções para 52 semanas com intervalos de confiança e visualização interativa dos resultados.
+- **Contexto:** Séries ambientais exigem mais do que prever o próximo valor: é necessário compreender tendência, sazonalidade e incerteza para produzir projeções confiáveis.
+- **Solução:** Estruturei uma análise comparativa de forecasting para identificar a abordagem mais adequada e gerar previsões de CO₂ para 52 semanas, acompanhadas de intervalos de confiança e visualização interativa.
+- **Stack:** Python • Time Series Analysis • Statsmodels • SARIMAX • Scikit-learn • Streamlit
 
 
-### ☁️ [Literacy Data Platform — Engenharia de Dados e Analytics na GCP](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
+### ☁️ [Literacy Data Platform — Engenharia de Dados na GCP](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
 
-- **O Problema:** Integrar dados educacionais, territoriais e financeiros provenientes de diferentes fontes para ampliar a análise das desigualdades na alfabetização infantil no Brasil.
-- **Tech:** Google Cloud Platform • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Medallion Architecture • Batch & Streaming • Terraform • Spark MLlib
-- **O Valor:** Estrutura uma plataforma de dados em Cloud capaz de transformar informações brutas em camadas analíticas e 15 Data Marts prontos para consumo, apoiando análises regionais e estudos sobre direcionamento de investimentos públicos.
+- **Contexto:** Dados educacionais, territoriais e financeiros dispersos dificultam uma visão integrada sobre desigualdades na alfabetização infantil no Brasil.
+- **Solução:** Construí uma plataforma de dados em Cloud que integra, organiza e transforma diferentes fontes em camadas analíticas e Data Marts prontos para gerar indicadores e apoiar análises sobre priorização de investimentos públicos.
+- **Stack:** GCP • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Terraform • Medallion Architecture
