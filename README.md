@@ -1,86 +1,41 @@
-<h1 align="center">Renan Assis Trevelim</h1>
+# Olá! Eu sou o Renan Assis Trevelim 👋
 
-<h3 align="center">
-  Data Scientist • Machine Learning • Data Engineering • Cloud
-</h3>
+### Data Scientist | Machine Learning & Deep Learning
 
-<p align="center">
-  Desenvolvo modelos preditivos, pipelines de dados e aplicações analíticas para apoiar decisões de negócio.
-</p>
+Construo soluções de Ciência de Dados que transformam dados em **previsões, inteligência e apoio à tomada de decisão**, com foco em Machine Learning, Deep Learning e modelagem preditiva.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/renan-trevelim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Também utilizo Engenharia de Dados, MLOps e Cloud Computing para levar modelos além do experimento e construir soluções end-to-end.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 📫 Onde me encontrar
 
-Profissional de dados com experiência prática em projetos end-to-end, conectando **análise, Machine Learning, Engenharia de Dados, Cloud e desenvolvimento de aplicações**.
-
-Atuo na construção de soluções voltadas à integração de dados, modelagem preditiva, inteligência de clientes e apoio à tomada de decisão.
-
-🎓 Pós-graduação em Ciência de Dados pela FIAP.
-
----
-
-## 💼 Projetos em Destaque
-
-### ☁️ Cloud Data Pipeline na GCP
-
-Plataforma de Engenharia de Dados para integrar informações educacionais, territoriais e financeiras sobre alfabetização infantil no Brasil.
-
-- **Arquitetura:** Medalhão, com camadas Bronze, Silver e Gold na Google Cloud Platform.
-- **Processamento:** pipelines Batch e Streaming com PySpark e Dataproc.
-- **Entregas:** 15 marts no BigQuery, infraestrutura com Terraform, validações de qualidade, Machine Learning e práticas de FinOps.
-- **Aplicação:** análise de desigualdades educacionais e apoio à priorização de investimentos públicos.
-
-`PySpark` `GCP` `Dataproc` `BigQuery` `GCS` `Terraform` `Spark MLlib`
-
-<p>
-  <a href="https://github.com/RenanTrevelim/gcp-literacy-data-pipeline">
-    <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+- 💼 **Atuação Atual:** Suporte Técnico em TI
+- 🎓 **Graduação:** Engenharia da Computação
+- 📚 **Pós-graduação:** Ciência de Dados — FIAP
+- 🔗 **LinkedIn:** [Renan Assis Trevelim](https://www.linkedin.com/in/renan-trevelim)
+- 💻 **GitHub:** [RenanTrevelim](https://github.com/RenanTrevelim)
 
 ---
 
-### 📊 Customer Intelligence com Machine Learning
+## 🚀 Projetos de Destaque no Portfólio
 
-Solução de Ciência de Dados para identificar clientes com maior risco de insatisfação e apoiar estratégias de atendimento e retenção.
+### 🎯 [NPS Intelligence — Antecipação de Detratores e Priorização de Clientes](https://github.com/RenanTrevelim/customer-churn-prediction)
 
-- **Modelagem:** Gradient Boosting para estimar a probabilidade de um cliente se tornar detrator.
-- **Segmentação:** Kernel PCA e método Ward para identificar perfis de criticidade operacional.
-- **Entregas:** níveis de risco, valor potencial em risco, fila de priorização e recomendações de retenção.
-- **Aplicação:** interface em Streamlit para previsões, análise de segmentos e exportação dos resultados.
-
-`Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib` `SciPy`
-
-<p>
-  <a href="https://github.com/RenanTrevelim/customer-churn-prediction">
-    <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+- **O Problema:** Identificar antecipadamente clientes com maior risco de insatisfação e determinar quais deveriam receber atenção prioritária.
+- **Tech:** Python • Scikit-learn • Gradient Boosting • Kernel PCA • Ward Hierarchical Clustering • Pandas • SciPy • Streamlit
+- **O Valor:** Transforma previsões em decisões de negócio ao combinar risco de detrator, perfil do cliente e valor potencial em risco para gerar uma fila inteligente de priorização e apoiar estratégias de retenção.
 
 
----
+### 🌍 [CO₂ Forecasting — Previsão e Análise de Séries Temporais](https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml)
 
-### 🌍 CO₂ Forecasting — Séries Temporais
+- **O Problema:** Compreender o comportamento histórico da concentração atmosférica de CO₂ e projetar sua evolução futura considerando tendência, sazonalidade e dependência temporal.
+- **Tech:** Python • Pandas • Statsmodels • Time Series Analysis • SARIMAX • Forecasting • Scikit-learn • Streamlit
+- **O Valor:** Compara diferentes abordagens de previsão, seleciona o modelo mais adequado e gera projeções para 52 semanas com intervalos de confiança e visualização interativa dos resultados.
 
-Projeto de forecasting para analisar e prever a **concentração atmosférica de CO₂**, comparando modelos estatísticos e abordagens de Machine Learning.
 
-* **Análise temporal:** exploração de tendência, sazonalidade, decomposição da série e autocorrelação.
-* **Modelagem:** comparação entre diferentes abordagens de forecasting e seleção do SARIMAX como modelo final.
-* **Previsão:** forecast semanal com horizonte de 52 semanas e intervalo de confiança.
-* **Aplicação:** dashboard interativo para visualizar histórico, previsões e comportamento esperado da concentração de CO₂.
+### ☁️ [Literacy Data Platform — Engenharia de Dados e Analytics na GCP](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
 
-`Python` `Pandas` `Statsmodels` `SARIMAX` `Scikit-learn` `Streamlit` `Time Series`
-
-<p>
-  <a href="https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml">
-    <img src="https://img.shields.io/badge/Acessar_repositório-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
+- **O Problema:** Integrar dados educacionais, territoriais e financeiros provenientes de diferentes fontes para ampliar a análise das desigualdades na alfabetização infantil no Brasil.
+- **Tech:** Google Cloud Platform • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Medallion Architecture • Batch & Streaming • Terraform • Spark MLlib
+- **O Valor:** Estrutura uma plataforma de dados em Cloud capaz de transformar informações brutas em camadas analíticas e 15 Data Marts prontos para consumo, apoiando análises regionais e estudos sobre direcionamento de investimentos públicos.
