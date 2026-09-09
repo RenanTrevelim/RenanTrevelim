@@ -39,3 +39,10 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 - **Contexto:** Dados educacionais, territoriais e financeiros dispersos dificultam uma visão integrada sobre desigualdades na alfabetização infantil no Brasil.
 - **Solução:** Construí uma plataforma de dados em Cloud que integra, organiza e transforma diferentes fontes em camadas analíticas e Data Marts prontos para gerar indicadores e apoiar análises sobre priorização de investimentos públicos.
 - **Stack:** GCP • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Terraform • Medallion Architecture
+
+### 🏠 [California Housing Market Radar — Machine Learning e Inteligência Geográfica](https://github.com/RenanTrevelim/california-housing-price-prediction) *(Em andamento)*
+
+- **Contexto:** Analisar milhares de regiões do mercado imobiliário apenas de forma manual dificulta identificar rapidamente áreas compatíveis com diferentes estratégias de preço, localização e posicionamento de mercado.
+- **Solução:** Desenvolvi um produto analítico que utiliza Machine Learning para estimar valores imobiliários regionais e transforma essas previsões em um **Market Radar**, permitindo filtrar regiões por orçamento, segmento e proximidade do oceano, visualizar oportunidades geograficamente por latitude e longitude e direcionar regiões candidatas para prospecção e análise comercial.
+- **Stack:** Python • Pandas • Scikit-learn • XGBoost • Optuna • SHAP • Matplotlib • Seaborn • Streamlit • Joblib
+
