@@ -26,6 +26,15 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 - **Solução:** Desenvolvi uma abordagem de Customer Intelligence que antecipa o risco de detratores e combina probabilidade, perfil e valor potencial em risco para transformar previsões em uma fila estratégica de priorização para retenção.
 - **Stack:** Python • Scikit-learn • Gradient Boosting • Kernel PCA • Clustering • Streamlit
 
+---
+
+### 🏠 [California Housing Pricing Intelligence — Machine Learning e Inteligência Geográfica](https://github.com/RenanTrevelim/california-housing-price-prediction)
+
+- **Contexto:** Estimar valores imobiliários de forma consistente exige considerar simultaneamente fatores econômicos, características habitacionais e localização, tornando análises de pricing mais complexas do que simples comparações de preço.
+- **Solução:** Desenvolvi uma solução de **Pricing Intelligence** que estima valores imobiliários regionais, identifica os principais drivers de preço e transforma essas estimativas em uma visão geográfica para comparar mercados, segmentar faixas de valor e apoiar estratégias de posicionamento e priorização regional.
+- **Stack:** Python • Pandas • Scikit-learn • XGBoost • Optuna • SHAP • Matplotlib • Seaborn • Streamlit • Joblib
+
+---
 
 ### 🌍 [CO₂ Forecasting — Previsão e Análise de Séries Temporais](https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml)
 
@@ -33,16 +42,10 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 - **Solução:** Estruturei uma análise comparativa de forecasting para identificar a abordagem mais adequada e gerar previsões de CO₂ para 52 semanas, acompanhadas de intervalos de confiança e visualização interativa.
 - **Stack:** Python • Time Series Analysis • Statsmodels • SARIMAX • Scikit-learn • Streamlit
 
+---
 
 ### ☁️ [Literacy Data Platform — Engenharia de Dados na GCP](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
 
 - **Contexto:** Dados educacionais, territoriais e financeiros dispersos dificultam uma visão integrada sobre desigualdades na alfabetização infantil no Brasil.
 - **Solução:** Construí uma plataforma de dados em Cloud que integra, organiza e transforma diferentes fontes em camadas analíticas e Data Marts prontos para gerar indicadores e apoiar análises sobre priorização de investimentos públicos.
 - **Stack:** GCP • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Terraform • Medallion Architecture
-
-### 🏠 [California Housing Market Radar — Machine Learning e Inteligência Geográfica](https://github.com/RenanTrevelim/california-housing-price-prediction) *(Em andamento)*
-
-- **Contexto:** Analisar milhares de regiões do mercado imobiliário apenas de forma manual dificulta identificar rapidamente áreas compatíveis com diferentes estratégias de preço, localização e posicionamento de mercado.
-- **Solução:** Desenvolvi um produto analítico que utiliza Machine Learning para estimar valores imobiliários regionais e transforma essas previsões em um **Market Radar**, permitindo filtrar regiões por orçamento, segmento e proximidade do oceano, visualizar oportunidades geograficamente por latitude e longitude e direcionar regiões candidatas para prospecção e análise comercial.
-- **Stack:** Python • Pandas • Scikit-learn • XGBoost • Optuna • SHAP • Matplotlib • Seaborn • Streamlit • Joblib
-
