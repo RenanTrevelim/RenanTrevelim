@@ -49,3 +49,11 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 - **Contexto:** Dados educacionais, territoriais e financeiros dispersos dificultam uma visão integrada sobre desigualdades na alfabetização infantil no Brasil.
 - **Solução:** Construí uma plataforma de dados em Cloud que integra, organiza e transforma diferentes fontes em camadas analíticas e Data Marts prontos para gerar indicadores e apoiar análises sobre priorização de investimentos públicos.
 - **Stack:** GCP • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Terraform • Medallion Architecture
+
+---
+
+### ⚡ [Energy Demand Forecasting — Previsão Inteligente de Demanda Energética](https://github.com/RenanTrevelim/energy-demand-forecasting) — 🚧 Em andamento
+
+- **Contexto:** A demanda energética apresenta fortes padrões temporais, sazonalidade intradiária e influência de condições meteorológicas, tornando sua previsão relevante para planejamento operacional, identificação de períodos críticos e acompanhamento do consumo.
+- **Solução:** Estou desenvolvendo uma solução de **Energy Demand Intelligence** baseada em séries temporais e Machine Learning, combinando feature engineering temporal, validação com `TimeSeriesSplit`, otimização com Optuna e XGBoost para previsão de consumo. O projeto também evolui para um pipeline persistido e uma aplicação Streamlit capaz de simular forecasts futuros, destacar picos de demanda e transformar previsões em indicadores operacionais.
+- **Stack:** Python • Pandas • NumPy • Time Series Analysis • Scikit-learn • XGBoost • LightGBM • Optuna • SHAP • Matplotlib • Streamlit • Joblib
