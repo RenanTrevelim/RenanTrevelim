@@ -2,9 +2,9 @@
 
 ### Data Scientist | Machine Learning & Deep Learning
 
-Transformo dados em **modelos, previsões e inteligência capaz de orientar decisões**, conectando Ciência de Dados, Machine Learning e Deep Learning a problemas reais.
+Transformo dados em **previsões, modelos e soluções capazes de apoiar decisões**, aplicando Ciência de Dados e Machine Learning a problemas reais.
 
-Meu foco é construir soluções que vão além da análise: da exploração dos dados à modelagem e entrega, utilizando Engenharia de Dados, MLOps e Cloud Computing para tornar projetos mais robustos, escaláveis e próximos de ambientes reais de produção.
+Tenho foco na construção de projetos que vão da análise e preparação dos dados à modelagem, interpretação e entrega, incorporando práticas de Engenharia de Dados, MLOps e Cloud Computing para criar soluções mais robustas e escaláveis.
 
 ---
 
@@ -18,12 +18,12 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 
 ---
 
-## 🚀 Projetos de Destaque no Portfólio
+## 🚀 Projetos em Data Science
 
 ### 🎯 [NPS Intelligence — Antecipação de Detratores e Priorização Inteligente de Clientes](https://github.com/RenanTrevelim/customer-churn-prediction)
 
 - **Contexto:** Em operações orientadas à experiência do cliente, identificar insatisfação apenas depois que ela acontece significa agir tarde demais.
-- **Solução:** Desenvolvi uma abordagem de Customer Intelligence que antecipa o risco de detratores e combina probabilidade, perfil e valor potencial em risco para transformar previsões em uma fila estratégica de priorização para retenção.
+- **Solução:** Desenvolvi uma abordagem de **Customer Intelligence** que antecipa o risco de detratores e combina probabilidade, perfil e valor potencial em risco para transformar previsões em uma fila estratégica de priorização para retenção.
 - **Stack:** Python • Scikit-learn • Gradient Boosting • Kernel PCA • Clustering • Streamlit
 
 ---
@@ -36,24 +36,17 @@ Meu foco é construir soluções que vão além da análise: da exploração dos
 
 ---
 
-### 🌍 [CO₂ Forecasting — Previsão e Análise de Séries Temporais](https://github.com/RenanTrevelim/co2-forecasting-statistical-vs-ml)
+### ⚡ [Previsão de Demanda Energética — Séries Temporais, Machine Learning e Ensemble Learning](https://github.com/RenanTrevelim/energy-demand-forecasting)
 
-- **Contexto:** Séries ambientais exigem mais do que prever o próximo valor: é necessário compreender tendência, sazonalidade e incerteza para produzir projeções confiáveis.
-- **Solução:** Estruturei uma análise comparativa de forecasting para identificar a abordagem mais adequada e gerar previsões de CO₂ para 52 semanas, acompanhadas de intervalos de confiança e visualização interativa.
-- **Stack:** Python • Time Series Analysis • Statsmodels • SARIMAX • Scikit-learn • Streamlit
+- **Contexto:** Antecipar a demanda energética ajuda a reduzir incertezas, identificar períodos críticos de consumo e apoiar decisões de planejamento e operação.
+- **Solução:** Desenvolvi uma solução de **Energy Demand Intelligence** que transforma comportamento histórico, sazonalidade e condições meteorológicas em previsões explicáveis e indicadores operacionais, disponibilizados em uma aplicação interativa para apoiar a análise da demanda futura.
+- **Stack:** Python • Pandas • NumPy • Scikit-learn • Optuna • SHAP • Statsmodels • Streamlit • Joblib
 
 ---
+
 
 ### ☁️ [Literacy Data Platform — Engenharia de Dados na GCP](https://github.com/RenanTrevelim/gcp-literacy-data-pipeline)
 
 - **Contexto:** Dados educacionais, territoriais e financeiros dispersos dificultam uma visão integrada sobre desigualdades na alfabetização infantil no Brasil.
 - **Solução:** Construí uma plataforma de dados em Cloud que integra, organiza e transforma diferentes fontes em camadas analíticas e Data Marts prontos para gerar indicadores e apoiar análises sobre priorização de investimentos públicos.
 - **Stack:** GCP • PySpark • Apache Spark • Dataproc • BigQuery • Cloud Storage • Terraform • Medallion Architecture
-
----
-
-### ⚡ [Energy Demand Forecasting — Previsão Inteligente de Demanda Energética](https://github.com/RenanTrevelim/energy-demand-forecasting) — 🚧 Em andamento
-
-- **Contexto:** A demanda energética apresenta fortes padrões temporais, sazonalidade intradiária e influência de condições meteorológicas, tornando sua previsão relevante para planejamento operacional, identificação de períodos críticos e acompanhamento do consumo.
-- **Solução:** Estou desenvolvendo uma solução de **Energy Demand Intelligence** baseada em séries temporais e Machine Learning, combinando feature engineering temporal, validação com `TimeSeriesSplit`, otimização com Optuna e XGBoost para previsão de consumo. O projeto também evolui para um pipeline persistido e uma aplicação Streamlit capaz de simular forecasts futuros, destacar picos de demanda e transformar previsões em indicadores operacionais.
-- **Stack:** Python • Pandas • NumPy • Time Series Analysis • Scikit-learn • XGBoost • LightGBM • Optuna • SHAP • Matplotlib • Streamlit • Joblib
