@@ -37,7 +37,11 @@ Do problema de negócio à entrega: **modelos preditivos, aplicações interativ
         <code>Clustering</code>
         <code>Streamlit</code>
       </p>
-      <p><a href="https://github.com/RenanTrevelim/customer-churn-prediction"><strong>Ver projeto e documentação →</strong></a></p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/customer-churn-prediction">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto NPS Intelligence">
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <p><sub>MACHINE LEARNING · EXPLAINABLE AI</sub></p>
@@ -52,7 +56,11 @@ Do problema de negócio à entrega: **modelos preditivos, aplicações interativ
         <code>SHAP</code>
         <code>Streamlit</code>
       </p>
-      <p><a href="https://github.com/RenanTrevelim/california-housing-price-prediction"><strong>Ver projeto e documentação →</strong></a></p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/california-housing-price-prediction">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto Housing Intelligence">
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -69,7 +77,11 @@ Do problema de negócio à entrega: **modelos preditivos, aplicações interativ
         <code>SHAP</code>
         <code>Streamlit</code>
       </p>
-      <p><a href="https://github.com/RenanTrevelim/energy-demand-forecasting"><strong>Ver projeto e documentação →</strong></a></p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/energy-demand-forecasting">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto Energy Demand Intelligence">
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <p><sub>DATA ENGINEERING · GOOGLE CLOUD</sub></p>
@@ -84,7 +96,11 @@ Do problema de negócio à entrega: **modelos preditivos, aplicações interativ
         <code>Cloud Storage</code>
         <code>Terraform</code>
       </p>
-      <p><a href="https://github.com/RenanTrevelim/gcp-literacy-data-pipeline"><strong>Ver projeto e documentação →</strong></a></p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/gcp-literacy-data-pipeline">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto Literacy Data Platform">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
