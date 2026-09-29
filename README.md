@@ -18,10 +18,30 @@ Transformo dados em **modelos preditivos, análises explicáveis e aplicações 
 
 ## 🚀 Projetos em destaque
 
-Do problema de negócio à entrega: **NLP, modelos preditivos, aplicações interativas e plataformas de dados em cloud.**
+Do problema de negócio à entrega: **risco de crédito, NLP, modelos preditivos, aplicações interativas e plataformas de dados em cloud.**
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Modelagem de Risco de Crédito</h3>
+      <p align="center"><strong>Machine Learning · Priorização de Carteira</strong></p>
+      <hr>
+      <p>Identificação de clientes com <strong>maior risco de inadimplência</strong> para priorizar análises e ações preventivas sobre a carteira.</p>
+      <p><strong>🔎 Destaque técnico</strong><br>
+      Comparação de seis classificadores, ajuste do limiar de decisão e interpretação com SHAP, com dashboard em Streamlit.</p>
+      <p align="center">
+        <code>Python</code>
+        <code>XGBoost</code>
+        <code>Optuna</code>
+        <code>SHAP</code>
+        <code>Streamlit</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/credit-risk-modeling">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto de Modelagem de Risco de Crédito">
+        </a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">💬 Análise de Sentimentos</h3>
       <p align="center"><strong>NLP · Embeddings · Modelagem de Tópicos</strong></p>
@@ -39,26 +59,6 @@ Do problema de negócio à entrega: **NLP, modelos preditivos, aplicações inte
       <p align="center">
         <a href="https://github.com/RenanTrevelim/olist-nlp-audit">
           <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto de Análise de Sentimentos">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Predição de Detratores</h3>
-      <p align="center"><strong>Machine Learning · Priorização de Clientes</strong></p>
-      <hr>
-      <p>Identificação de clientes com <strong>risco de insatisfação</strong>, combinando perfil e valor potencial em risco para orientar ações de retenção.</p>
-      <p><strong>🔎 Destaque técnico</strong><br>
-      Classificação e clustering conectados a uma fila de priorização de clientes em aplicação Streamlit.</p>
-      <p align="center">
-        <code>Python</code>
-        <code>Scikit-learn</code>
-        <code>Gradient Boosting</code>
-        <code>Clustering</code>
-        <code>Streamlit</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/RenanTrevelim/customer-churn-prediction">
-          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto de Predição de Detratores">
         </a>
       </p>
     </td>
@@ -85,6 +85,28 @@ Do problema de negócio à entrega: **NLP, modelos preditivos, aplicações inte
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🎯 Predição de Detratores</h3>
+      <p align="center"><strong>Machine Learning · Priorização de Clientes</strong></p>
+      <hr>
+      <p>Identificação de clientes com <strong>risco de insatisfação</strong>, combinando perfil e valor potencial em risco para orientar ações de retenção.</p>
+      <p><strong>🔎 Destaque técnico</strong><br>
+      Classificação e clustering conectados a uma fila de priorização de clientes em aplicação Streamlit.</p>
+      <p align="center">
+        <code>Python</code>
+        <code>Scikit-learn</code>
+        <code>Gradient Boosting</code>
+        <code>Clustering</code>
+        <code>Streamlit</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/RenanTrevelim/customer-churn-prediction">
+          <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto de Predição de Detratores">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🏠 Previsão de Preços Imobiliários</h3>
       <p align="center"><strong>IA Explicável · Inteligência Geográfica</strong></p>
       <hr>
@@ -104,24 +126,21 @@ Do problema de negócio à entrega: **NLP, modelos preditivos, aplicações inte
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>☁️ Dados Educacionais na Nuvem</h3>
-      <p><strong>Engenharia de Dados · Google Cloud · Arquitetura Medallion</strong></p>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Dados Educacionais na Nuvem</h3>
+      <p align="center"><strong>Engenharia de Dados · Google Cloud</strong></p>
       <hr>
-      <p>Integração de <strong>dados educacionais, territoriais e financeiros</strong><br>
-      para analisar desigualdades na alfabetização e apoiar investimentos públicos.</p>
+      <p>Integração de <strong>dados educacionais, territoriais e financeiros</strong> para analisar desigualdades na alfabetização e apoiar investimentos públicos.</p>
       <p><strong>🔎 Destaque técnico</strong><br>
-      Processamento com PySpark, Data Marts no BigQuery e infraestrutura definida em Terraform na GCP.</p>
-      <p>
+      Arquitetura Medallion na GCP, processamento com PySpark, Data Marts no BigQuery e infraestrutura em Terraform.</p>
+      <p align="center">
         <code>PySpark</code>
         <code>Dataproc</code>
         <code>BigQuery</code>
         <code>Cloud Storage</code>
         <code>Terraform</code>
       </p>
-      <p>
+      <p align="center">
         <a href="https://github.com/RenanTrevelim/gcp-literacy-data-pipeline">
           <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar projeto de Dados Educacionais na Nuvem">
         </a>
